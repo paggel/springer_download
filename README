@@ -11,7 +11,7 @@ http://tovotu.de/dev/518-Neuer-SpringerLink-Downloader/
 
 author:	
 	Milian Wolff <mail@milianw.de> / <http://milianw.de>
-licencse:
+license:
 	GPL v3 (http://www.gnu.org/licenses/gpl.html)
 language:
 	Python (v2.4 compatible)
